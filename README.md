@@ -233,9 +233,3 @@ A structured data model was created to connect customer and transaction informat
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your Power BI dashboards here.
-
-```text
-Screenshots/
-├── credit_card_transaction_report.png
-└── credit_card_customer_report.png
